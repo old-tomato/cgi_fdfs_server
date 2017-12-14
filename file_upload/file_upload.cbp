@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="file_upload" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/zkl/CLionProjects/cgi_server_test_01/file_upload" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/zkl/CLionProjects/cgi_server_test_01/file_upload" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/zkl/CLionProjects/cgi_server_test_01/file_upload" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="file_upload">
+         <Option output="/home/zkl/CLionProjects/cgi_server_test_01/out/file_upload" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="../out" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 file_upload" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="file_upload/fast">
+         <Option output="/home/zkl/CLionProjects/cgi_server_test_01/out/file_upload" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="../out" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 file_upload/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/zkl/CLionProjects/cgi_server_test_01/file_upload/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/CommonHead.h">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/http_response/HttpResponse.cpp">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/http_response/HttpResponse.h">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/logger/make_log.c">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/logger/make_log.h">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/redis_help/RedisHelper.cpp">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/redis_help/RedisHelper.h">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/security_check/SecurityCheck.cpp">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/security_check/SecurityCheck.h">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/sql_help/MySqlHelper.cpp">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/sql_help/MySqlHelper.h">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/sql_help/MySqlQueryResult.cpp">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/common/sql_help/MySqlQueryResult.h">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/file_upload/main.cpp">
+         <Option target="file_upload"/>
+      </Unit>
+      <Unit filename="/home/zkl/CLionProjects/cgi_server_test_01/file_upload/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
